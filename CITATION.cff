@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: If you use this fork, please cite it using these metadata and identify the
+  commit or release used. Upstream attribution is recorded in references.
+title: Feynman CLI
+authors:
+- name: Companion, Inc.
+- name: Feynman contributors
+repository-code: https://github.com/edithatogo/feynman
+url: https://github.com/edithatogo/feynman
+references:
+- type: software
+  title: Feynman CLI
+  authors:
+  - name: Companion, Inc.
+  - name: Feynman contributors
+  repository-code: https://github.com/Companion-Inc/feynman
+  url: https://github.com/Companion-Inc/feynman
